@@ -1,3 +1,5 @@
 /clear_frames/*
 /generated_frames/*
 /original_frames/*
+/remove_bg_frames/*
+/remove_bg_generated_frames/*
